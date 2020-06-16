@@ -8,6 +8,6 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
     res.json({Message : "Hello World!"});
-});
+}); 
 
 app.listen(3333);
