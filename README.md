@@ -11,8 +11,8 @@
 
 #### Clonig the repository
 
-##### First you should to start the git in your chosen directory: `git init -y`
-##### Then it's just clone: `git clone "https://github.com/indominuShot/typescript-configuration.git"`
+- First you should to start the git in your chosen directory: `git init -y`
+- Then it's just clone: `git clone "https://github.com/indominuShot/typescript-configuration.git"`
 
 ## Runnig the Project
 
